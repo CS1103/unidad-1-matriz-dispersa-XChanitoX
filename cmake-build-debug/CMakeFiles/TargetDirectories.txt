@@ -1,3 +1,0 @@
-C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/CMakeFiles/Matriz_Dispersa.dir
-C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
