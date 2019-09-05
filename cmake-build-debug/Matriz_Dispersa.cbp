@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug"/>
+				<Option working_dir="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug"/>
+				<Option working_dir="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Matriz_Dispersa">
-				<Option output="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Matriz_Dispersa.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug"/>
+				<Option output="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Matriz_Dispersa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Matriz_Dispersa"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 Matriz_Dispersa"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Matriz_Dispersa/fast">
-				<Option output="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Matriz_Dispersa.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug"/>
+				<Option output="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Matriz_Dispersa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,27 +63,27 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Matriz_Dispersa/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 Matriz_Dispersa/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug"/>
+				<Option working_dir="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/main.cpp">
+		<Unit filename="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/main.cpp">
 			<Option target="Matriz_Dispersa"/>
 		</Unit>
-		<Unit filename="C:/Users/ALONSO/CLionProjects/POO II_Second/Matriz_Dispersa/CMakeLists.txt">
+		<Unit filename="C:/Users/usuario/Documents/GitHub/unidad-1-matriz-dispersa-XChanitoX/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

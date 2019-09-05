@@ -1,21 +1,31 @@
 //
-// Created by ALONSO on 29/08/2019.
+// Created by Christian on 29/08/2019.
 //
 
 #include "Matriz_Dispersa.h"
+#include "Definiciones.h"
 
-Matriz_Dispersa::Matriz_Dispersa(int nFilas, int nColumas) : n_filas(nFilas), n_columas(nColumas){
-    srand(time(NULL));
-    filas = new int[n_filas];
-    columnas = new int[n_columas];
-    int aleatorio = 1+(rand()%50);
-    long long int dispersion = n_filas*n_columas*aleatorio/100;
-    datos = new TipoDato[dispersion];
+Matriz_Dispersa::Matriz_Dispersa(const long int &n_filas, const long int &n_columnas) : n_filas(n_filas), n_columas(n_columnas){
+    dispersion = 10+rand()%50;
+    no_nulos = int((dispersion*n_filas*n_columnas)/100);
 }
 
+Matriz_Dispersa::~Matriz_Dispersa() {}
+
 void Matriz_Dispersa::Rellenar_Datos() {
-    for (int i = 0; i < dispersion; ++i) {
-        datos[i] = 1+(rand()%50);
+    //se asignan valores del 1 al 99 a la matriz
+    for (int i=0;i<no_nulos;i++){
+        vector_no_nulos.push_back(rand()%90);
+        // se asignan las coordenadas
+        vector_n_filas.push_back(rand() % (n_filas + 1));
+        vector_n_columnas.push_back(rand() % (n_columnas + 1));
+        // se busca que no se repitan
+        for (int j=0;j<i;j++){
+            if (vector_n_filas[i]==vector_n_filas[j]&&vector_n_columnas[i]==vector_n_columnas[j]){
+                vector_n_filas[i]=rand()%(n_filas+1);
+                vector_n_columnas[i]=rand()%(n_columnas+1);
+            }
+        }
     }
 }
 
@@ -30,11 +40,3 @@ Matriz_Dispersa::~Matriz_Dispersa() {
     delete[] columnas;
     delete[] datos;
 }
-
-
-
-
-
-
-
-
