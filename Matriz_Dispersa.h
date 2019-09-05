@@ -5,7 +5,7 @@
 #ifndef MATRIZ_DISPERSA_MATRIZ_DISPERSA_H
 #define MATRIZ_DISPERSA_MATRIZ_DISPERSA_H
 
-#include "Definiciones.h"
+#include "Includes.h"
 
 class Matriz_Dispersa {
 private:
